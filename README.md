@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Thobela Goge [BSc Math, BCom  Hon Economics]
 
-#<!--
-**ThobelaGoge/ThobelaGoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Overview
+Overview ✨
 
 - 🔭 I’m currently working on ETL end-to-end pipeline using kafka and spark
 - 🌱 I’m currently learning data science algorithms and grinding leetcode

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+#<!--
 **ThobelaGoge/ThobelaGoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin or my personal email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a math grad but went on to further studies in Economics while interested in coding/data science
--->
+#-->
